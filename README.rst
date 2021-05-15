@@ -12,8 +12,8 @@ Introduction
     :alt: Discord
 
 
-.. image:: https://github.com/circuitpython/CircuitPython_DisplayIO_FlipInput/workflows/Build%20CI/badge.svg
-    :target: https://github.com/circuitpython/CircuitPython_DisplayIO_FlipInput/actions
+.. image:: https://github.com/circuitpython/CircuitPython_Org_DisplayIO_FlipInput/workflows/Build%20CI/badge.svg
+    :target: https://github.com/circuitpython/CircuitPython_Org_DisplayIO_FlipInput/actions
     :alt: Build Status
 
 
@@ -73,7 +73,7 @@ Contributing
 ============
 
 Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/circuitpython/CircuitPython_DisplayIO_FlipInput/blob/HEAD/CODE_OF_CONDUCT.md>`_
+<https://github.com/circuitpython/CircuitPython_Org_DisplayIO_FlipInput/blob/HEAD/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.
 
 Documentation
